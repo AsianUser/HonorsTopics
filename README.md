@@ -1,2 +1,2 @@
-# HonorsTopics
-HonorsTopics CS Per 2
+# Honors Topics
+Honors Topics CS Per 2
