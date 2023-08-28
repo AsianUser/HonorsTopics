@@ -8,6 +8,7 @@ import java.util.Scanner;
 
 public class main {
 
+    // Writes a string to a file
     public void stringToFile(String fileName, String input) {
 
         try {
@@ -22,6 +23,7 @@ public class main {
 
     }
 
+    // Reads file to string & returns string
     public String fileToString(String fileName) {
         String str = "";
 
