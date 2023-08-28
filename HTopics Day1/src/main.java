@@ -1,3 +1,12 @@
+
+/**
+ * Add file creation method
+ * put into  thta are not main
+ * add tester for both
+ * 
+ * use File clas to create new File at start of each method
+ */
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
